@@ -1,0 +1,22 @@
+{
+  "name": "video-maker-deschamps",
+  "version": "1.0.0",
+  "description": "Projeto de videos automatizados seguido tutorial do Felipe Deschamps no youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielfrneto/video-maker-deschamps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielfrneto/video-maker-deschamps/issues"
+  },
+  "homepage": "https://github.com/gabrielfrneto/video-maker-deschamps#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
