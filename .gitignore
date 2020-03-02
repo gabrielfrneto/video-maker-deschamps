@@ -104,4 +104,6 @@ dist
 .tern-port
 
 #credentials
-credentials/*.json
+credentials/*.json 
+
+content.json
